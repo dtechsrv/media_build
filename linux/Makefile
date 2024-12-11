@@ -28,10 +28,10 @@ TARFILES += include/linux/dma-fence.h
 TARFILES += include/linux/of_graph.h
 TARFILES += include/linux/kconfig.h
 TARFILES += include/linux/hdmi.h
-TARFILES += include/linux/compiler-gcc.h
 TARFILES += include/linux/dma/xilinx_dma.h
 TARFILES += include/trace/events/v4l2.h
 TARFILES += include/trace/events/vb2.h
+TARFILES += include/trace/events/pwc.h
 TARFILES += include/linux/pci_ids.h
 
 TARFILES += include/misc/altera.h
